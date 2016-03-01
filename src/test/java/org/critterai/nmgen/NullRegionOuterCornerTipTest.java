@@ -15,7 +15,7 @@ import org.junit.Test;
  *     b a
  *     a x
  */
-public class NullRegionOuterCornerTipTests
+public class NullRegionOuterCornerTipTest
 {
 
     /**

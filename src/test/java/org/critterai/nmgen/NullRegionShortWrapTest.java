@@ -16,7 +16,7 @@ import org.junit.Test;
  *     a a
  *     a x
  */
-public class NullRegionShortWrapTests
+public class NullRegionShortWrapTest
 {
     
     private static final int NULL_REGION = OpenHeightSpan.NULL_REGION;

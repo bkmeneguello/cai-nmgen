@@ -13,7 +13,7 @@ import org.junit.Test;
  * <p>This is a partial test of {@link CleanNullRegionBorders}
  * functionality.</p>
  */
-public class EncompassedNullRegionTests
+public class EncompassedNullRegionTest
 {
 
     /*

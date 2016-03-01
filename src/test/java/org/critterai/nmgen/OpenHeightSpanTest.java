@@ -8,7 +8,7 @@ import org.junit.Test;
 /**
  * Tests related to the OpenHeightSpan class.
  */
-public class OpenHeightSpanTests
+public class OpenHeightSpanTest
 {
     
     private static final int ROOT_REGION = 1;

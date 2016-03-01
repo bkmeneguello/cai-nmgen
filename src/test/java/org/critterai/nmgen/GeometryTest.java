@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Tests functionality in the Geomtry class.
  */
-public final class GeometryTests
+public final class GeometryTest
 {
 
     private static final float TOLERANCE = 0.0001f;

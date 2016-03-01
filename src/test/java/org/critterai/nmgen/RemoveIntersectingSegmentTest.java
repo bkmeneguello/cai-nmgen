@@ -11,7 +11,7 @@ import org.junit.Before;
  * Test related to the ContourSetBuilder.removeIntersectingSegments()
  * operation.
  */
-public class RemoveIntersectingSegmentTests
+public class RemoveIntersectingSegmentTest
 {
 
     /*
